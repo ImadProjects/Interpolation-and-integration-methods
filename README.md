@@ -1,4 +1,4 @@
-# Project 5 : Interpolation and integration methods / Cubic splines and surface interpolation
+# Interpolation and integration methods / Cubic splines and surface interpolation
 
 ## Authors
 
@@ -33,5 +33,5 @@ You can run this file to view the airflow and the pressure map of the k1 wing.
 ![alt text](airfoil.png)
 ![alt text](pressure_map_k1.png)
 ![alt text](pressure_map_L1003.png)
-![alt text](pressure_map.png)
+
 
